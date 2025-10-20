@@ -1,0 +1,10 @@
+# ignore .csv files
+*.csv
+# ignore .log files
+*.log
+# ignore temp files
+*.tmp
+# ignore in_use.lock files
+*.lock
+# ignore environment variable files
+.env
