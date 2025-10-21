@@ -17,4 +17,4 @@ Dữ liệu được lưu trữ trên một cụm HDFS bao gồm:
 Nền tảng Docker được xử dụng để xây dựng hệ thống mô phỏng. 
 Các Namenode, datanode, dịch vụ Yarn, Spark Master và Spark Worker được tạo ra sử dụng các Image của nhóm Big Data Europe (bde2020).
 
-## Báo cao chi tiết được viết tại file pdf stock_bigdata_report.pdf
+## Báo cáo chi tiết được viết tại file pdf Big_Data_Stock_Analysis_Report.pdf
